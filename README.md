@@ -1,11 +1,11 @@
 # SOS-Eventos
 Projeto Plataforma Web + APP que conecta organizadores de eventos a profissionais audiovisuais, rápido, fácil e confiável. 
 
-##Revisando
+*Revisando
 A SOS Eventos é uma multiplataforma que tem por objetivo intermediar o contato entre organizadores de eventos e profissionais audiovisuais. 
 Diante das dificuldades que o mercado enfrenta, falta de profissionalismo, confiabilidade e praticidade. Esse projeto busca tornar o cotidiano desses profissionais mais descomplicado e integro.
 
-##Prova de conceito
+*Prova de conceito
 A prova de conceito da plataforma SOS Eventos demonstra a viabilidade técnica do projeto por meio de uma inteface web simples desenvolvida em:
 
 - Frontend: HTML + CSS e Java Script
