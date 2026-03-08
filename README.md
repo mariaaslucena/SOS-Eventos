@@ -1,6 +1,17 @@
 # SOS-Eventos
 Projeto Plataforma Web + APP que conecta organizadores de eventos a profissionais audiovisuais, rápido, fácil e confiável. 
 
+## Integrantes do Projeto
+
+* Amanda Brandao de Souza
+* Bianca Caroline Paes Pacheco
+* Guilherme Martins Barros Vital
+* Luiz Fernando de Castro
+* Maria Adelia Sena de Lucena
+* Romulo Fraga de Oliveira
+* Thais Gabriel Almeida Gai
+* Wagner Suzano Urivi
+
 ## Revisando
 A SOS Eventos é uma multiplataforma que tem por objetivo intermediar o contato entre organizadores de eventos e profissionais audiovisuais. 
 Diante das dificuldades que o mercado enfrenta, falta de profissionalismo, confiabilidade e praticidade. Esse projeto busca tornar o cotidiano desses profissionais mais descomplicado e integro.
@@ -47,6 +58,12 @@ O projeto utiliza:
 4. Importar o arquivo `sos_eventos.sql` no phpMyAdmin.
 5. Colocar a pasta do projeto dentro de `htdocs`.
 6. Acessar no navegador: http://localhost/sos_eventos/form_solicitacao.php
+
+## Vídeo de Demonstração
+
+Assista à apresentação do projeto no link abaixo:
+
+https://youtu.be/3hwmVgJWB2A
 
 ## Observação de Segurança
 
